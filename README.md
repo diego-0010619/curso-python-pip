@@ -24,6 +24,7 @@ python3 main.py
 ```sh
 git clone
 cd app
+Crear el entorno virtual en el proyecto propio con el nombre env
 source env/bin/activate
 pip3 install -r requeriments.txt
 python3 main.py
